@@ -26,7 +26,7 @@ import (
 	"errors"
 	"fmt"
 
-	errorset "github.com/panjf2000/gnet/errors"
+	errorset "github.com/leaf-rain/gnet/errors"
 )
 
 // CRLFByte represents a byte of CRLF.

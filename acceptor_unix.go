@@ -25,8 +25,8 @@ package gnet
 import (
 	"os"
 
-	"github.com/panjf2000/gnet/errors"
-	"github.com/panjf2000/gnet/internal/netpoll"
+	"github.com/leaf-rain/gnet/errors"
+	"github.com/leaf-rain/gnet/internal/netpoll"
 	"golang.org/x/sys/unix"
 )
 

@@ -25,8 +25,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/panjf2000/gnet/errors"
-	"github.com/panjf2000/gnet/internal/netpoll"
+	"github.com/leaf-rain/gnet/errors"
+	"github.com/leaf-rain/gnet/internal/netpoll"
 )
 
 type listener struct {

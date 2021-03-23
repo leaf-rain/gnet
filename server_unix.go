@@ -29,9 +29,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/panjf2000/gnet/errors"
-	"github.com/panjf2000/gnet/internal/logging"
-	"github.com/panjf2000/gnet/internal/netpoll"
+	"github.com/leaf-rain/gnet/errors"
+	"github.com/leaf-rain/gnet/internal/logging"
+	"github.com/leaf-rain/gnet/internal/netpoll"
 )
 
 type server struct {

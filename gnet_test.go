@@ -35,9 +35,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/panjf2000/gnet/errors"
-	"github.com/panjf2000/gnet/pool/bytebuffer"
-	"github.com/panjf2000/gnet/pool/goroutine"
+	"github.com/leaf-rain/gnet/errors"
+	"github.com/leaf-rain/gnet/pool/bytebuffer"
+	"github.com/leaf-rain/gnet/pool/goroutine"
 	"go.uber.org/zap"
 )
 

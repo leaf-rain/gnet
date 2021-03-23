@@ -27,7 +27,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/panjf2000/gnet/errors"
+	"github.com/leaf-rain/gnet/errors"
 	"golang.org/x/sys/unix"
 )
 

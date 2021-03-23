@@ -23,7 +23,7 @@ package gnet
 import (
 	"runtime"
 
-	"github.com/panjf2000/gnet/internal/netpoll"
+	"github.com/leaf-rain/gnet/internal/netpoll"
 )
 
 func (svr *server) activateMainReactor(lockOSThread bool) {
